@@ -1,10 +1,11 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C8FF&center=false&vCenter=false&multiline=true&width=800&repeat=true&lines=Hi%2C+I'm+Haneen+Shaban!;I'm+currently+learning+Machine+Learning+and+exploring+how+data%2C+algorithms%2C+and+creativity+can+come+together+to+solve+real-world+problems.;My+background+includes+experience+with+Python%2C+React%2C+and+backend+development%2C+and+I'm+focusing+on+ML+concepts%2C+data+preprocessing%2C+and+model+training.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&center=false&vCenter=false&multiline=true&width=600&lines=Hi!;I'm+Haneen+Shaban.)](https://git.io/typing-svg)
 
 <hr>
 
 I’m currently learning **Machine Learning** and exploring how data, algorithms, and creativity can come together to solve real-world problems.<br>
 My background includes experience with **Python**, **React**, and **backend development**, and I’m now focusing on building a strong foundation in **ML concepts, data preprocessing, and model training**.<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Haneen-Shaban)
