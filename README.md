@@ -59,7 +59,7 @@ My background includes experience with **Python**, **React**, and **Backend Deve
 
 <br>
 
-## 🐍 Snake Eating My Contributions
+
 <img src="https://raw.githubusercontent.com/Haniin911/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
