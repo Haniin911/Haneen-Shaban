@@ -1,14 +1,13 @@
 <div align="center">
 
 # 💫 About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&multiline=true&width=600&lines=Hi!;I'm+Haneen+Shaban.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C8FF&center=false&vCenter=false&multiline=true&width=600&lines=Hi!;I'm+Haneen+Shaban.)](https://git.io/typing-svg) 
 
-<br>
-<br>
-<br>
+<hr>
 
-I’m currently learning **Machine Learning** and exploring how data, algorithms, and creativity can come together to solve real-world problems.  
-My background includes experience with **Python**, **React**, and **Backend Development**, and I’m now focusing on building a strong foundation in **ML concepts, data preprocessing, and model training**.
+
+I’m currently learning **Machine Learning** and exploring how data, algorithms, and creativity can come together to solve real-world problems.<br> My background includes experience with **Python**, **React**, and **backend development**, and I’m now focusing on building a strong foundation in **ML concepts, data preprocessing, and model training**.
+
 
 <br>
 
